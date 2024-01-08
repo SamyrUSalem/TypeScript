@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ESNext", //De padrão o Ts compilado o arquivo para uma versão antiga, nesse caso estou pedindo a versão a mais recente
+        "outDir": "Ts/primeiroSitemaTs/dist", //Estou dizendo, que os arquivos compilados serão enviados para a pasta chamadar dir
+        "outFile": "main.js"
+    }
+}
