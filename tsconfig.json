@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "target": "ES2015", //De padrão o Ts compilado o arquivo para uma versão antiga, nesse caso estou pedindo a versão a mais recente
-        "outDir": "Exercicios/criandoTipos/dist" //Estou dizendo, que os arquivos compilados serão enviados para a pasta chamadar dir
+        "target": "ESNext", //De padrão o Ts compilado o arquivo para uma versão antiga, nesse caso estou pedindo a versão a mais recente
+        "outDir": "Exercicios/criandoInterfaces/public/dist" //Estou dizendo, que os arquivos compilados serão enviados para a pasta chamadar dir
     }
 }
